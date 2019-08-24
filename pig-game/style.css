@@ -73,7 +73,7 @@ body {
     border-radius: 20px;
 }
 
-.active { background-color: #f7f7f7; }
+.active { background-color: #FFF0F5; }
 .active .player-name { font-weight: 300; }
 
 .active .player-name::after {
